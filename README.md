@@ -23,7 +23,3 @@ Guess That Pokemon
 ![Guess That Pokemon](./assets/pokemon1.png)
 
 <br>
-
-## **Working video 📹**
-<!-- add your working video over here -->
-![Guess That Pokemon](./assests/pokemon3.png)
