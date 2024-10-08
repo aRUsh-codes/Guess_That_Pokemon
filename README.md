@@ -26,4 +26,4 @@ Guess That Pokemon
 
 ## **Working video 📹**
 <!-- add your working video over here -->
-![Guess That Pokemon](./assests/pokemon3.png)
+![Guess That Pokemon](./assets/pokemon3.png)
